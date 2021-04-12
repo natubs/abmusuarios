@@ -68,7 +68,7 @@ const styles = {
         marginTop: '5%',
         paddingTop: 10,
         paddingBottom: 40,
-        borderRadius: 50
+        borderRadius: 50,
     },
     form: {
         width: '50%',
