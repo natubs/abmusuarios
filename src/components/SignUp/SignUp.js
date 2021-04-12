@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Title from '../Card/Card';
 import { setUserData } from '../../services/services';
 import Estilos from '../SignUp/style.module.css';
